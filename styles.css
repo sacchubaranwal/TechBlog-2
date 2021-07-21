@@ -107,7 +107,7 @@ hr {
 
 .hero {
     padding-top: 1rem;
-    background-color: #4B5563; 
+    background-color: #D1D5DB;  
 }
 
 .hero-img {
@@ -135,7 +135,7 @@ hr {
 
 
 .offwhite {
-    background-color:  #6B7280;
+    background-color:  #E5E7EB;
 }
 
 
@@ -166,9 +166,11 @@ hr {
     font-weight: bold;
 }
 
+
 .image {
-    max-width: 800px;
+    max-width: 700px;
     display: block;
     margin: auto ;
-    padding-bottom: 2rem ;
+    padding-bottom: 1.5rem ;
 }
+
